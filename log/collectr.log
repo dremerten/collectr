@@ -1,0 +1,269 @@
+2017-07-11 22:20:56,679 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-12 17:33:58,265 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-12 17:34:06,964 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 17:34:17,938 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-12 17:35:11,698 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 17:35:21,589 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 17:35:21,594 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-12 17:35:42,774 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 17:36:36,335 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 17:36:36,339 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-12 17:37:42,568 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 18:55:13,955 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-12 18:55:13,959 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 09:57:59,145 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 09:57:59,148 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 09:58:24,623 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:04:34,757 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:04:34,761 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:04:34,761 - garnet_file - INFO - [proxima] (1027S): Agent created
+2017-07-13 10:04:50,276 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:05:15,806 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:05:15,810 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:05:15,810 - garnet_file - INFO - [proxima] (1047S): Agent created
+2017-07-13 10:05:25,463 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:06:00,516 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:06:00,519 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:06:32,625 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:06:32,629 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:06:32,629 - garnet_file - INFO - [proxima] (1047S): Collectr running, agent created
+2017-07-13 10:07:46,009 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:07:46,016 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:07:46,019 - garnet_file - INFO - [proxima] (1047S): localhost.localdomain
+2017-07-13 10:07:56,818 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:09:05,903 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:09:05,919 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:09:47,881 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:09:47,885 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:14:15,568 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:14:15,576 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:14:45,225 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:14:45,229 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:15:15,423 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:15:15,428 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:15:15,429 - garnet_file - INFO - [proxima] (1047S): Actual agent created
+2017-07-13 10:16:16,497 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:16:16,505 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:16:16,507 - garnet_file - INFO - [proxima] (1047S): Actual agent created
+2017-07-13 10:19:17,550 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:19:17,557 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:19:17,558 - garnet_file - INFO - [proxima] (1047S): Actual agent created
+2017-07-13 10:19:47,168 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:19:47,174 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:20:02,012 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:20:02,021 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:20:02,024 - garnet_file - INFO - [proxima] (1047S): Actual agent created
+2017-07-13 10:20:09,417 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:20:09,424 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:20:09,427 - garnet_file - INFO - [proxima] (1047S): Actual agent created
+2017-07-13 10:20:12,907 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:34:36,710 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:34:36,713 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:37:16,801 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:37:16,804 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:37:41,680 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:37:41,687 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:37:41,689 - garnet_file - INFO - [proxima] (1047S): From Language class
+2017-07-13 10:38:49,670 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:38:49,676 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:38:55,433 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:38:55,441 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:42:09,308 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:42:09,314 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:42:09,322 - garnet_file - INFO - [proxima] (1047S): FROM AGENT CREATE
+2017-07-13 10:42:35,155 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:42:35,159 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 10:42:57,904 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 10:42:57,914 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:31:28,778 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:31:33,406 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:36:18,242 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:36:18,248 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:36:18,254 - garnet_file - CRITICAL - [proxima] (1031E): agent_cache_directory: "cache" in configuration doesn't exist!
+2017-07-13 16:36:51,780 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:36:51,784 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:36:51,790 - garnet_file - CRITICAL - [proxima] (1031E): agent_cache_directory: "cache" in configuration doesn't exist!
+2017-07-13 16:37:08,526 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:37:08,532 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:37:08,541 - garnet_file - INFO - [proxima] (1047S): FROM AGENT CREATE, GAHD DAMMIT
+2017-07-13 16:38:58,479 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:42:40,532 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:42:40,544 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:42:40,550 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 16:42:40,582 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 16:42:53,643 - garnet_file - INFO - [proxima] (1071S): Daemon Stopped - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:45:17,024 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 16:45:17,027 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 16:45:17,034 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:28:45,452 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:28:45,459 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:29:04,199 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:33:19,669 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:33:19,673 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:33:19,679 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:33:44,802 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:33:44,805 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:33:44,811 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:34:16,875 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:34:26,426 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:34:26,429 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:34:26,434 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:36:43,293 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:36:43,296 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:36:43,302 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:36:59,907 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:36:59,919 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:36:59,923 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:38:16,770 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:38:16,775 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:38:16,783 - garnet_file - WARNING - [proxima] (1034S): Agent language file /home/proxima/Desktop/collectr/garnet/metadata/en/agents/collectr.yaml does not exist.
+2017-07-13 17:40:13,848 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:40:13,851 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:41:31,728 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:41:37,403 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:41:50,543 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:43:16,262 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:44:30,895 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:44:36,677 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:44:48,695 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:44:48,696 - garnet_file - INFO - [proxima] (1058S): AGENT UPLOADED
+2017-07-13 17:44:53,621 - garnet_file - WARNING - [proxima] (1063S): PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid does not exist. Daemon not running?
+2017-07-13 17:45:46,560 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:50:08,347 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:54:19,302 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:56:04,350 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:56:04,813 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 17:56:33,199 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 17:56:33,653 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 17:58:14,513 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 17:59:55,059 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:01:35,501 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:03:28,661 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:03:28,726 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:05:09,407 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:06:50,034 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:08:30,855 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:10:11,485 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:11:51,567 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:13:32,099 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:21:12,375 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:21:12,717 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:24:04,885 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:24:05,220 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:25:59,993 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:26:00,321 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:27:40,789 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:27:54,839 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:27:55,179 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:28:36,523 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:28:36,572 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:28:58,517 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 18:28:58,562 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:30:38,740 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:32:18,927 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:33:59,026 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:35:39,190 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:37:19,378 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:38:59,550 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:40:39,605 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:42:19,744 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:43:59,920 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:45:40,069 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:47:20,172 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:49:00,310 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:50:40,490 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:52:20,613 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:54:00,733 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:55:40,882 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:57:20,991 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 18:59:01,058 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:00:41,237 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:02:21,405 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:04:01,472 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:05:41,708 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:07:21,898 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:09:02,178 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:10:42,304 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:12:22,539 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:14:02,675 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:15:42,877 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:17:23,105 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:19:03,354 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:20:43,490 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:22:23,620 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:24:03,791 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:25:43,952 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:27:24,140 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:48:33,400 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 19:48:33,442 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:50:13,532 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:51:53,786 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:53:33,943 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 19:55:14,262 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 20:59:17,882 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 20:59:17,925 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:00:25,722 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:00:25,767 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:02:05,992 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:03:46,048 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:05:26,407 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:07:06,527 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:07:57,337 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:07:57,379 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:08:41,586 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:08:41,630 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:09:20,745 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:09:20,787 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:11:09,718 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:11:39,410 - garnet_file - WARNING - [proxima] (1028S): Agent "collectr" failed to contact server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:12:37,788 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:12:37,867 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:17:59,527 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-13 21:17:59,605 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:19:39,775 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:21:19,944 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:23:00,113 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:24:40,237 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:26:20,314 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:28:00,460 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:29:40,611 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:31:20,750 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:33:00,926 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:34:41,090 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:36:21,239 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:38:01,303 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:39:41,437 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:41:21,567 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:43:01,712 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:44:41,889 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:46:22,060 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:48:02,212 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:49:42,364 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:51:22,493 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:53:02,643 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:54:42,780 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:56:22,948 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:58:03,128 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 21:59:43,274 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:01:23,354 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:03:03,429 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:04:43,531 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:06:23,583 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:08:03,732 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:09:43,906 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:11:23,994 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:13:04,095 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:14:44,192 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:16:24,344 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:18:04,491 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:19:44,560 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:21:24,710 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:23:04,850 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:24:44,935 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:26:25,257 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:28:05,565 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:29:45,941 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:31:26,333 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-13 22:33:06,740 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
+2017-07-14 21:01:29,625 - garnet_file - INFO - [proxima] (1070S): Daemon Started - PID file: /home/proxima/Desktop/collectr/.garnet/pid/collectr.pid
+2017-07-14 21:01:29,715 - garnet_file - INFO - [proxima] (1027S): Agent "collectr" successfully contacted server http://127.0.0.1:6000/infoset/api/v1/receive/c99b4af749d9f2d0a1fbd26c26d5eeac5781b32dabda7f0af1b5079999e1ea45
