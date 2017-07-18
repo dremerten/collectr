@@ -116,6 +116,7 @@ class PollingAgent(object):
         success = agent.post()
         # Purge cache if success is True
         if success is True:
+            log.log2console(2000, "Successfully posted data to infoset-db")
             agent.purge()
 
 

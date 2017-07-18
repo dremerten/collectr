@@ -96,6 +96,22 @@ class GetLog(object):
         return value
 
 
+def log2console(code, message):
+    """Log message to STDOUT only and die.
+
+    Args:
+        code: Message code
+        message: Message text
+
+    Returns:
+        None
+
+    """
+    # Initialize key variables
+    output = _message(code, message, False)
+    print(output)
+
+
 def log2die_safe(code, message):
     """Log message to STDOUT only and die.
 
