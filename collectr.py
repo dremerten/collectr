@@ -15,6 +15,7 @@ Description:
 import sys
 import socket
 from time import sleep
+import time
 
 # Garnet libraries
 try:
@@ -22,6 +23,7 @@ try:
 except:
     print('You need to set your PYTHONPATH to include the Garnet library')
     sys.exit(2)
+from etc import conf
 from utils import configuration
 from utils import daemon
 from utils import log
@@ -109,10 +111,14 @@ class PollingAgent(object):
         # Initialize key variables
         agent = Agent.Agent(self.config, devicename)
 
-        # Update agent with linux data
-        data_linux.getall(agent)
+        if conf.CUSTOM:
+            conf.custom_collection(agent)
+        else:
+            # Update agent with linux data
+            data_linux.getall(agent)
 
         # Post data
+        print(time.time())
         success = agent.post()
         # Purge cache if success is True
         if success is True:

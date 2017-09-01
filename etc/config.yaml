@@ -1,8 +1,8 @@
 main:
-    log_file: /home/proxima/Desktop/collectr/log/collectr.log
+    log_file: ./log/collectr.log
     log_level: debug
-    log_directory: /home/proxima/Desktop/collectr/log
-    agent_cache_directory: /home/proxima/Desktop/collectr/cache
+    log_directory: ./log
+    agent_cache_directory: ./cache
     language: en
     interval: 15
     agent_subprocesses: 10
